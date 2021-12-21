@@ -1,3 +1,0 @@
-# I didn't have time to fix this code. 
-I know it's horrible and nothing is right... 
-Unfortunately, fatigue was starting to set in: /
